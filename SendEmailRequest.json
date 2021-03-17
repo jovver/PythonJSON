@@ -1,0 +1,98 @@
+{
+    "tenantId": "101062",
+    "htmlTemplateId": "{{htmltemplateid}}",
+    "emailData": [
+      {
+        "sendData": {
+          "accountPendingEventId": "123-0",
+          "to": "intuvotest@mailinator.com",
+          "from": "elther.barrientos@cudirect.com",
+          "reply": "ted.borlongan@cudirect.com",
+          "cc": [""],
+          "bcc": [""]
+        },
+        "fields": [
+          {
+            "fieldName": "contacts.fname",
+            "fieldValue": "Jore"
+          },
+          {
+            "fieldName": "contacts.pMobile",
+            "fieldValue": "12234567890"
+          },
+          {
+            "fieldName": "users.contact1",
+            "fieldValue": "Erin Davidson"
+          },
+          {
+            "fieldName": "users.poffice",
+            "fieldValue": "Xceed Financial"
+          },
+          {
+            "fieldName": "users.email",
+            "fieldValue": "edavidson@xceedfinancial.com"
+          },
+          {
+            "fieldName": "users.contact2",
+            "fieldValue": "Home Loan Consultant"
+          },
+          {
+            "fieldName": "users.contact3",
+            "fieldValue": "Bay Federal Credit"
+          },
+          {
+            "fieldName": "users.contact4",
+            "fieldValue": "Direct: 831.477.8543"
+          },
+          {
+            "fieldName": "users.contact5",
+            "fieldValue": "Fax: 831.515.5311"
+          },
+          {
+            "fieldName": "users.contact6",
+            "fieldValue": "edavidson@bayfed.com"
+          },
+          {
+            "fieldName": "users.contact7",
+            "fieldValue": "NMLS: 1731825"
+          },
+          {
+            "fieldName": "users.contact8",
+            "fieldValue": ""
+          },
+          {
+            "fieldName": "users.photo1",
+            "fieldValue": "bfculogo001"
+          },
+          {
+            "fieldName": "users.disclaimerImage1",
+            "fieldValue": "ehl001"
+          },
+          {
+            "fieldName": "vehicles.Year",
+            "fieldValue": "06/19/2020"
+          },
+          {
+            "fieldName": "vehicles.mileage",
+            "fieldValue": "100"
+          },
+          {
+            "fieldName": "vehicles.isNew",
+            "fieldValue": "Yes"
+          },
+          {
+            "fieldName": "vehicleLoans.vlRate",
+            "fieldValue": "100"
+          },
+          {
+            "fieldName": "vehicleLoans.vlAmount",
+            "fieldValue": "100"
+          },
+          {
+            "fieldName": "vehicleLoans.vlTier",
+            "fieldValue": "5"
+          }
+        ]
+      }
+    ]
+  }
