@@ -1,9 +1,9 @@
 {
     "tenantId": "101062",
     "htmlTemplateId": "{{htmltemplateid}}",
-    "messageType":"email",
+    "messageType":1,
     "encryptedMailCredential":"KKbsMnAv2ZrSaSWZFnVMC4nXT/2zG/6eYgMS3fOOtPd6Q7rRaPxWpRV7VbluNG7u+eGWPqQ4XzAQroSO3GOSKOqVYB6zpnREjcvpHRKaCkliWnG0guiXi2Z7OUe0yEgTIujKXN3jVfaYvaPv4Svw8owIHnNfhnZSzKGmROjyU3arqrlQE90dSQwkcby47UHoKW7x1aqqX5IuRsu7YC+6s71DsQK/6ucZLx1TT01MbZR/862/UtxeUQJFp0+MCsyjnNry3Ct2TKNwepkbyR9KEQ==",
-    "emailData": [
+    "messageData": [
       {
         "sendData": {
           "accountPendingEventId": "123-0",
